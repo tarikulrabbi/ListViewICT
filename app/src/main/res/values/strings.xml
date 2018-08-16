@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ICC ODI RANKING</string>
+    <string-array name="country_names">
+        <item>England</item>
+        <item>India</item>
+        <item>New Zealand</item>
+        <item>South Africa</item>
+        <item>Pakistan</item>
+        <item>Austalia</item>
+        <item>Bangladesh</item>
+        <item>Srilanka</item>
+        <item>West Indies</item>
+        <item>Afganistan</item>
+        <item>Zimbabwe</item>
+        <item>Ireland</item>
+    </string-array>
+</resources>
